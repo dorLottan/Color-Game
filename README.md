@@ -1,1 +1,1 @@
-# Color-Game Demo: https://dorlottan.github.io/Color-Game/
+Color-Game Demo: https://dorlottan.github.io/Color-Game/
